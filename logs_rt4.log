@@ -1,0 +1,7 @@
+Attaching to tema1_rt4_1
+[36mrt4_1  |[0m PING rt3 (1.2.0.2) 56(84) bytes of data.
+[36mrt4_1  |[0m 64 bytes from tema1_rt3_1.tema1_tnet2 (1.2.0.2): icmp_seq=1 ttl=64 time=0.094 ms
+[36mrt4_1  |[0m 
+[36mrt4_1  |[0m --- rt3 ping statistics ---
+[36mrt4_1  |[0m 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+[36mrt4_1  |[0m rtt min/avg/max/mdev = 0.094/0.094/0.094/0.000 ms
